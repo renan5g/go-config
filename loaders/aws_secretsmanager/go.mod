@@ -1,4 +1,4 @@
-module github.com/renan5g/go-config/loaders/aws-secretsmanager
+module github.com/renan5g/go-config/loaders/aws_secretsmanager
 
 go 1.24.2
 

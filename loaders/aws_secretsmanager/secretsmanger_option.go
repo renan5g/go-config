@@ -1,4 +1,4 @@
-package secretsmanager
+package awssecretsmanager
 
 import (
 	"context"
